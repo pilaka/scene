@@ -1,4 +1,4 @@
 scene
 =====
 
-baby steps at Git-Hub
+Hello there taking baby steps at Git-Hub!
